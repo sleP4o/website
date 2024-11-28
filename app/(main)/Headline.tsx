@@ -80,7 +80,8 @@ export function Headline() {
         }}
       >
         <Balancer>
-          I' m Dai Junyang.  This is a test line.
+          我是戴俊阳
+          这是一行测试文字
           <PeekabooLink href="https://zolplay.com">佐玩</PeekabooLink>
           
         </Balancer>
