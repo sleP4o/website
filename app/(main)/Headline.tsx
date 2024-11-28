@@ -80,9 +80,9 @@ export function Headline() {
         }}
       >
         <Balancer>
-          我是 Dai Junyang，
+          I' m Dai Junyang.  
           <PeekabooLink href="https://zolplay.com">佐玩</PeekabooLink>
-          我热爱开发，设计，创新，享受生活，以及在未知领域中探索。
+          
         </Balancer>
       </motion.p>
       <motion.div
